@@ -1,0 +1,3 @@
+[submodule "digitalckt/Team16.git"]
+	path = digitalckt/Team16.git
+	url = ../../IIITD-OOPD/Team16.git
